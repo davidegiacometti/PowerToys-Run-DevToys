@@ -1,0 +1,14 @@
+{
+  "ID": "9D45F332530A4B1FACA8A703773119DA",
+  "Disabled": false,
+  "ActionKeyword": "&",
+  "IsGlobal": false,
+  "Name": "DevToys",
+  "Author": "davidegiacometti",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://aka.ms/powertoys",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.DevToys.dll",
+  "IcoPathDark": "Images\\DevToys.dark.png",
+  "IcoPathLight": "Images\\DevToys.light.png"
+}
