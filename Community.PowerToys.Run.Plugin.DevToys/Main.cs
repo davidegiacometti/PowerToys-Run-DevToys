@@ -3,16 +3,16 @@
 
 using System.Collections.Generic;
 using System.Linq;
-using Community.PowerToys.Run.Plugin.DevToys;
 using Wox.Infrastructure;
 using Wox.Plugin;
 
-namespace Community.PowerToys.Run.Plugin.GitKraken
+namespace Community.PowerToys.Run.Plugin.DevToys
 {
     public class Main : IPlugin
     {
-        private readonly DevToysProvider _devToysProvider;
+        public static string PluginID => "9D45F332530A4B1FACA8A703773119DA";
 
+        private readonly DevToysProvider _devToysProvider;
         private bool _devToysInstalled;
 
         public string Name => "DevToys";
