@@ -7,7 +7,7 @@ _If you find the plugin useful and  want to use it localized please file an issu
 ## Requirements
 
 - DevToys
-- PowerToys minimum version 0.75.0
+- PowerToys minimum version 0.76.0
 
 ## Installation
 
