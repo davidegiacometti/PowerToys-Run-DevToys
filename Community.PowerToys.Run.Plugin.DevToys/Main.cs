@@ -17,7 +17,7 @@ namespace Community.PowerToys.Run.Plugin.DevToys
 
         public string Name => "DevToys";
 
-        public string Description => "Open DevToys utilities.";
+        public string Description => "Opens DevToys utilities";
 
         public Main()
         {
