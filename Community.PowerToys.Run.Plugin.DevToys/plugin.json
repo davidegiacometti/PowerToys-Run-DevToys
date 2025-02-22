@@ -7,7 +7,7 @@
   "Author": "davidegiacometti",
   "Version": "1.0.0",
   "Language": "csharp",
-  "Website": "https://aka.ms/powertoys",
+  "Website": "https://github.com/davidegiacometti/PowerToys-Run-DevToys",
   "ExecuteFileName": "Community.PowerToys.Run.Plugin.DevToys.dll",
   "IcoPathDark": "Images\\DevToys.dark.png",
   "IcoPathLight": "Images\\DevToys.light.png"
